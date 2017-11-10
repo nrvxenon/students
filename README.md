@@ -1,2 +1,3 @@
 # students
-gestion d'une liste d'etudiants et la session des differentes utilisateur
+gestion d'une liste d'etudiants &  session des differents utilisateurs pour acceder
+aux differentes pages
